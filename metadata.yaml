@@ -1,0 +1,31 @@
+_repo: Into-the-blue_73541
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Austin, F. Britten (Frederick Britten)
+    aliases:
+    - Austin, Frederick Britten
+    - Austin, Britten
+    birthdate: 1885
+    deathdate: 1941
+    gutenberg_agent_id: '51002'
+    url: http://www.gutenberg.org/2009/agents/51002
+description: ''
+gutenberg_issued: '2024-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73541'
+language: en
+pgterms:marc904: https://archive.org/details/blue-book-v-038-n-05-1924-03
+pgterms:marc905: 20240308101211austin
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aChicago, IL :$bThe Consolidated Magazines Corporation, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Into the blue
+url: http://www.gutenberg.org/ebooks/73541
